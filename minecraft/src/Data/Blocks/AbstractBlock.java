@@ -4,7 +4,7 @@ public class AbstractBlock implements block {
      char    contenuto;
      boolean falls_with_gravity,
              fall_through;
-
+    //cacca molla
     ///////////////////////////////////////////////
     // GETTER SETTER ------------------------------
     public void setFall_through (boolean x) {          //setter getter servono per settare ed ridare il valore
